@@ -1,5 +1,5 @@
 - 👋 Welcome to my profile
-- 📍 18 years old from Bavaria, Germany
+- 📍 19 years old from Bavaria, Germany
 - 🎓 Currently studying technical computer science
 - 💻 Coding in C, C++, Java, Javascript, Python
 - ✉️ Discord: suptower#0554
