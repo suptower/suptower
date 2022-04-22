@@ -1,5 +1,4 @@
-https://img.shields.io/github/followers/suptower?style=social
-
+![GitHub followers](https://img.shields.io/github/followers/suptower?style=social)
 - 👋 Welcome to my profile
 - 📍 Bavaria, Germany
 - 🎓 Technical Computer Science @ OTH Regensburg
