@@ -11,7 +11,6 @@
 
 ![](https://raw.githubusercontent.com/suptower/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/suptower/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=suptower&theme=dark)](https://git.io/streak-stats)
 
 <!---
 arda-kocer/arda-kocer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
