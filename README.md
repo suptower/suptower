@@ -2,7 +2,7 @@
 - 👋 Welcome to my profile
 - 📍 Bavaria, Germany
 - 🎓 Technical Computer Science @ OTH Regensburg
-- ✉️ Discord: suptower#0554
+- ✉️ Discord: suptower
 
 
 <!---
