@@ -8,10 +8,10 @@
 <!---
 ![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=suptower&show_icons=true&theme=dracula)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suptower&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 --->
-
+<!---
 ![](https://raw.githubusercontent.com/suptower/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/suptower/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+--->
 
 <tr>
   <td>
