@@ -12,6 +12,14 @@
 ![](https://raw.githubusercontent.com/suptower/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/suptower/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+
+<tr>
+  <td>
+    <img src="https://github.com/suptower/suptower/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  </td>
+</tr>
+
+
 <!---
 arda-kocer/arda-kocer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
