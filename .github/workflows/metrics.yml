@@ -27,7 +27,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
