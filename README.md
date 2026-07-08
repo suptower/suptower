@@ -46,34 +46,3 @@ Interested in Embedded Systems • AI • Machine Learning • Automation
 <p align="center">
   <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=suptower&theme=tokyo-night&hide_border=true&grid=false&days=30"/>
 </p>
-
-
-<style>
-  hr.dashed {
-  border-top: 1px dashed;
-  border-bottom: none;
-  }
-
-  hr.dotted {
-  border-top: 1px dotted;
-  border-bottom: none;
-  }
-
-  hr.double {
-  border-top: 3px double;
-  border-bottom: none;
-  }
-
-  hr.gradient {
-  height: 3px;
-  border: none;
-  border-radius: 6px;
-  background: linear-gradient(
-    90deg,
-    rgba(13, 8, 96, 1) 0%,
-    rgba(9, 9, 121, 1) 21%,
-    rgba(6, 84, 170, 1) 51%,
-    rgba(0, 255, 113, 1) 100%
-  );
-}
-</style>
