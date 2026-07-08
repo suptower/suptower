@@ -1,38 +1,79 @@
-<table>
-  <!---
-  <tr>
-    <td>
-      ✌️ Welcome. I am currently studying technical computer science at OTH Regensburg in Germany. Although my studies heavily involve programming in C and C++, I spend a lot of my spare time using Node.js and therefora Javascript. I've created several discord bots for private and public use and also created my own npm package.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      📖 At the moment, I am mostly spending my coding time on Node and low level C. I am also learning Linux Automation in form of Ansible.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      👾 Feel free to contact me on Discord: suptower
-    </td>
-  </tr>
-  -->
-  <tr>
-    <td align=center>
-      <img src="https://github.com/suptower/suptower/blob/main/github-metrics.svg" alt="Metrics" width="100%"
-    </td>
-  </tr>
-</table>
-<!---
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=suptower&show_icons=true&theme=dracula)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suptower&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
---->
-<!---
-![](https://raw.githubusercontent.com/suptower/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/suptower/github-stats/master/generated/languages.svg#gh-dark-mode-only)
---->
+<h1 align="center">Hi 👋 I'm Arda</h1>
+
+<p align="center">
+M.Sc. Computer Science @ FAU Erlangen–Nürnberg<br>
+Interested in Embedded Systems • AI • Machine Learning • Automation 
+</p>
+
+<h2 align="center">🛠 Languages</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,html,md,latex" />
+</p>
+
+<h2 align="center">⚙️ Development</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,gitlab,vscode,pycharm,npm" />
+</p>
+
+<h2 align="center">🖥 Embedded & Hardware</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,debian,ubuntu" />
+</p>
+
+<h2 align="center">📊 Databases & Monitoring</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,grafana,ansible" />
+</p>
+
+<h2 align="center">🎨 Other Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ae,blender,ps,pr,notion" />
+</p>
+
+<hr class="gradient">
+
+<h3 align="center"> ⏱️ Activity</h2>
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=suptower&show_icons=true&include_all_commits=true&theme=tokyonight"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=suptower&layout=donut&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=suptower&theme=tokyo-night&hide_border=true&grid=false&days=30"/>
+</p>
 
 
+<style>
+  hr.dashed {
+  border-top: 1px dashed;
+  border-bottom: none;
+  }
 
-<!---
-arda-kocer/arda-kocer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  hr.dotted {
+  border-top: 1px dotted;
+  border-bottom: none;
+  }
+
+  hr.double {
+  border-top: 3px double;
+  border-bottom: none;
+  }
+
+  hr.gradient {
+  height: 3px;
+  border: none;
+  border-radius: 6px;
+  background: linear-gradient(
+    90deg,
+    rgba(13, 8, 96, 1) 0%,
+    rgba(9, 9, 121, 1) 21%,
+    rgba(6, 84, 170, 1) 51%,
+    rgba(0, 255, 113, 1) 100%
+  );
+}
+</style>
